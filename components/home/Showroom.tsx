@@ -10,30 +10,30 @@ export default function Showroom() {
             <p>
               <strong className="text-charcoal">📍 Address:</strong>
               <br />
-              Westlands, Nairobi, Kenya
+              Syokimau, Nairobi, Kenya
             </p>
             <p>
-              <strong className="text-charcoal">🕐 Hours:</strong>
+              <strong className="text-charcoal">⏰ Hours:</strong>
               <br />
-              Monday–Saturday: 9am–6pm<br />
+              Monday–Saturday: 8am–5pm<br />
               Sunday: Closed
             </p>
             <p>
               <strong className="text-charcoal">📞 Contact:</strong>
               <br />
-              +254 712 345 678<br />
-              info@globalhubimports.co.ke
+              +254 797 609 616<br />
+              keithsingi3@gmail.com
             </p>
           </div>
           <div className="flex gap-4 pt-4">
             <Link
-              href="https://maps.google.com"
+              href="https://maps.google.com/maps/search/Syokimau+Nairobi+Kenya"
               className="border-2 border-charcoal text-charcoal px-6 py-2 hover:bg-charcoal hover:text-white transition-colors"
             >
               Get Directions
             </Link>
             <Link
-              href="https://wa.me/254712345678?text=Hello%2C%20I%27d%20like%20to%20book%20a%20showroom%20visit"
+              href="https://wa.me/254797609616?text=Hello%2C%20I%27d%20like%20to%20book%20a%20showroom%20visit"
               className="bg-whatsapp-green text-white px-6 py-2 hover:opacity-90 transition-opacity"
             >
               Book a Visit
