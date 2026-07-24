@@ -15,7 +15,7 @@ export default function ClosingCTA() {
             Request a Quote
           </Link>
           <Link
-            href="https://wa.me/254712345678"
+            href="https://wa.me/254797609616"
             className="bg-whatsapp-green text-white px-8 py-3 hover:opacity-90 transition-opacity"
           >
             WhatsApp Us
