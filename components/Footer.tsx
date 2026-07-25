@@ -8,10 +8,10 @@ export default function Footer() {
         <div>
           <h4 className="font-serif text-lg mb-2">GLOBAL HUB IMPORTS</h4>
           <p className="text-stone-grey text-sm mb-4">
-            Nairobi\'s trusted source for modern, imported bathroom and kitchen fittings.
+            Nairobi's trusted source for modern, imported bathroom and kitchen fittings.
           </p>
-          <p className="text-stone-grey text-sm mb-1">📍 Westlands, Nairobi, Kenya</p>
-          <p className="text-stone-grey text-sm">🕐 Mon–Sat: 9am–6pm</p>
+          <p className="text-stone-grey text-sm mb-1">📍 Syokimau, Nairobi, Kenya</p>
+          <p className="text-stone-grey text-sm">⏰ Mon–Sat: 8am–5pm</p>
         </div>
 
         {/* Column 2: Categories */}
@@ -86,13 +86,13 @@ export default function Footer() {
         {/* Column 4: Contact */}
         <div>
           <h5 className="text-eyebrow mb-4">Contact</h5>
-          <p className="text-stone-grey text-sm mb-2">📞 +254 712 345 678</p>
+          <p className="text-stone-grey text-sm mb-2">📞 +254 797 609 616</p>
           <p className="text-stone-grey text-sm mb-2">
-            <a href="https://wa.me/254712345678" className="hover:text-brass transition-colors">
+            <a href="https://wa.me/254797609616" className="hover:text-brass transition-colors">
               💬 WhatsApp Us
             </a>
           </p>
-          <p className="text-stone-grey text-sm">✉️ info@globalhubimports.co.ke</p>
+          <p className="text-stone-grey text-sm">✉️ keithsingi3@gmail.com</p>
         </div>
       </div>
 

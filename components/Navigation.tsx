@@ -88,13 +88,13 @@ export default function Navigation() {
       {/* Mobile Bottom Action Bar */}
       <div className="fixed bottom-0 left-0 right-0 md:hidden bg-charcoal text-white flex items-center justify-around py-3 border-t border-stone-grey">
         <a
-          href="https://wa.me/254712345678?text=Hello%2C%20I%27m%20interested%20in%20your%20products"
+          href="https://wa.me/254797609616?text=Hello%2C%20I%27m%20interested%20in%20your%20products"
           className="flex flex-col items-center gap-1 text-xs"
         >
           <span>💬</span>
           <span>WhatsApp</span>
         </a>
-        <a href="tel:+254712345678" className="flex flex-col items-center gap-1 text-xs">
+        <a href="tel:+254797609616" className="flex flex-col items-center gap-1 text-xs">
           <span>☎️</span>
           <span>Call</span>
         </a>
